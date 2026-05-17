@@ -1,0 +1,32 @@
+h1 {
+  font-weight : bold;
+}
+
+body {
+  background-color: white;
+}
+
+div {
+  width: 500px;
+  height: 200px;
+  background-color: lightblue;
+}
+
+#taille {
+  width : 500px;
+  height : 300px;
+}
+
+#taille:hover{
+  width : 1000px;
+  height : 600px;
+}
+
+
+.grece {
+  font-weight: bold;
+}
+
+.italy {
+  font-style : italic;
+}
